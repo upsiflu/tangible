@@ -1,0 +1,30 @@
+body {
+  font-family: 'Source Sans Pro', 'Trebuchet MS', 'Lucida Grande', 'Bitstream Vera Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+  text-align: center;
+  color: silver;
+  background:blue;
+}
+
+div {margin:0em; padding:0em; background:transparent;}
+p   {border:.05rem solid black; background:white;}
+
+h1 {
+  font-size: 30px;
+}
+
+img {
+  margin: 20px 0;
+  max-width: 200px;
+}
+.Embi {font-size: .2em;background:black;}
+.Many {border:.1rem dashed red;}
+.Product {border:.2em solid silver;padding:0;}
+.Emblem {background:yellow;}
+.Figure {float:left;background:black; height:6rem;width:8rem;color:white;}
+.Paragraph {width:28rem; padding:.7rem;}
+.Link {background:cyan;}
+.Title {}
+.Caption {}
+.Text {color:black;}
+.Name {}
